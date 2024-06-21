@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vibhu Raj</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Transformers.**
-
 - 📫 How to reach me **vibhuraj2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
